@@ -1,4 +1,8 @@
-"""Writes the competition entry text to /output/entry.txt."""
+"""Competition deliverable: write the entry postmortem to /output/entry.txt.
+
+The entry is a two-sentence deadpan incident report, 277 characters, inside
+the competition's 1-400 character gate.
+"""
 import os
 
 ENTRY = (
